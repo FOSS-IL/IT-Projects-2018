@@ -9,4 +9,4 @@
   - [My Code School](https://www.codeschool.com/courses/mastering-github)
   - [Udacity Tutorial](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
  
-> Any suggestions are welcome
+> Any suggestions are welcome.

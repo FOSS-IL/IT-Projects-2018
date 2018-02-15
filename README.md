@@ -8,7 +8,7 @@ If you want to be hired by your dream company, then you need to flaunt your inte
 ##### Collaborate and track changes in your code across versions :
 Much like using Microsoft Word or Google Drive, you can have a version history of your code so that previous versions are not lost with every iteration. GitHub also tracks changes in a changelog, so you can have an exact idea of what is changed each time. (This is especially helpful for looking back in time.) 
 
-You can search Google to learn GitHub, but if you want to get started quickly here is a list of resources that we found to be most helpful to [learn GitHub](git_learn.md) from scratch.
+You can search Google to learn GitHub, but if you want to get started quickly here is a list of resources that we found to be most helpful to [learn GitHub](Learning_Github.md) from scratch.
 
 
 ## Why FOSSIL?

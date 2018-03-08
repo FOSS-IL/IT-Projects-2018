@@ -13,4 +13,4 @@ for character in message:
 	else:
 		newmessage += character
 
-print('Your encrypted message is:',newmessage)
+

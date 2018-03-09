@@ -1,4 +1,4 @@
-# Pattern-recognition-
+# Pattern-Recognition
 
 # (Ashish Kumar, Aaditya Vikram, Rahul Vishnoi)
 

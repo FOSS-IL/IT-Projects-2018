@@ -1,0 +1,88 @@
+body{
+   padding:30px;
+}
+
+.aa h1{
+   border-bottom:3px solid rgb(180,40,130);
+    font-family: 'Dancing Script', cursive;
+  font-size:65px;
+  padding:5px;
+}
+.imge{
+   border-radius:50%;
+   width:70%;
+  height:60%;
+ padding:6px;
+  background:rgb(120,60,120);
+}
+
+.quote{
+  padding:40px;
+}
+.col-md-10{
+     border-left:3px solid rgb(180,40,150);
+
+}
+.qq{
+  float:right;
+}
+.book{
+  float:left;
+  width:30%;
+  padding:4px;
+}
+.book img{
+   width:85%;
+}
+@media screen and (max-width: 770px){
+  .extra{
+    display:none;
+  }
+  .book{
+     float:none;
+    width:80%;
+  }
+  .col-md-2{
+     background:rgb(180,40,150);
+     width:98%;
+    height:auto;
+    padding-top:10px;
+    padding-right:10px;
+  }
+  .col-md-2 ul li b{ font-size:25px;
+   color:rgb(0,0,0);
+    font-family: 'Dancing Script', cursive;
+}
+}
+@media screen and (max-width: 1050px){
+  @media screen and (min-width:770px){
+.col-md-2 ul li b{ font-size:25px;
+   color:rgb(0,0,0);
+    font-family: 'Dancing Script', cursive;
+}
+  .col-md-2{
+    
+    background:rgb(180,40,150); margin:3px;
+    max-width:97%;
+    height:auto;
+    padding-top:10px;
+    padding-right:700px;
+  }  
+  
+  }}
+.sec{
+       border-bottom:3px solid rgb(180,40,150);
+
+}
+p{
+  padding:10px;
+}
+b{ font-size:25px;
+   color:rgb(120,60,120);
+    font-family: 'Dancing Script', cursive;
+}
+
+.quote1{ 
+    color:rgb(120,60,120);
+    font-family: 'Dancing Script';
+}

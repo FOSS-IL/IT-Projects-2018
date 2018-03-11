@@ -5,7 +5,7 @@ This application is an e-commerce website, to buy products from different brands
 
 **Group Members**
 
-..*Sanjana Jain
-..*Sanju Raj
-..*Tulika Bhalla
-..*Utkarsh Srivastava
+Sanjana Jain
+Sanju Raj
+Tulika Bhalla
+Utkarsh Srivastava

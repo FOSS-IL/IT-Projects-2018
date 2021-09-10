@@ -1,6 +1,6 @@
 # IT-Projects-2018
 ## Why GitHub?
-GitHub provides with an easy and intuitional way to introduce yourself with open-source project development. It provides numerous benefits including easier collaboration with colleagues and peers, ability to look back on previous versions, and tons of easy integration options. A few interesting advantages of GitHub are :-
+GitHub provides an easy and intuitional way to introduce yourself with open-source project development. It provides numerous benefits including easier collaboration with colleagues and peers, ability to look back on previous versions, and tons of easy integration options. A few interesting advantages of GitHub are :-
 ##### You can have your code reviewed by the community :
 There might be a part of code that you are having trouble with or aren't sure whether it would work right. GitHub provides an easy medium to get two cents from the experts in all fields.
 ##### GitHub is the best way to express your coding efficacy :
@@ -12,8 +12,8 @@ You can search Google to learn GitHub, but if you want to get started quickly he
 
 
 ## Why FOSSIL?
-FOSSIL stands for Foundation of Open Source Society IET Lucknow, which is a community of open source developers at IET Lucknow. For long quality of projects (and placement results) at our college have been mediocre (to put it mildly). FOSSIL intends to change just that, by inculcating among it constituents a spirit of taking on ambitious projects and serendipitous learning through active participation of the entire community. The sole purpose of FOSSIL is to promote projects by active collaboration among its members. Participation in FOSSIL would have multiple additional benefits like being introduced to open source community, perhaps you might qualify for open source competions like GSoC, and as a result improve your chances of getting your dream job. 
-Thorough examination of top colleges (and what they do differently) has lead to the conclusion that the number of students qualifying GSoC is an great indicator (and primary factor) of the coding culture in a college and placement records of that college. And with that in mind, FOSSIL will largely emphasis on helping build among students the skillset and mental fortitude required to crack GSoC.
+FOSSIL stands for Foundation of Open Source Society IET Lucknow, which is a community of open source developers at IET Lucknow. FOSSIL has been determined to improve the project ideas, introduce new technologies, and finally build a responsible community to contribute and work on new ideas and innovations together. Hence to bring a better placement results. FOSSIL intends to change just that, by inculcating among it constituents a spirit of taking on ambitious projects and serendipitous learning through active participation of the entire community. The sole purpose of FOSSIL is to promote projects by active collaboration among its members. Participation in FOSSIL would have multiple additional benefits like being introduced to open source community, perhaps you might qualify for open source competitions like GSoC, and as a result improve your chances of getting your dream job. 
+Thorough examination of top colleges (and what they do differently) has lead to the conclusion that the number of students qualifying GSoC is an great indicator (and primary factor) of the coding culture in a college and placement records of that college. And with that in mind, FOSSIL will largely emphasis on helping build among students the skill set and mental fortitude required to crack GSoC.
 ##### To put it in concrete terms FOSSIL pledges to ensure that 3 students from IET Lucknow are selected in GSoC-2019.
 
 
